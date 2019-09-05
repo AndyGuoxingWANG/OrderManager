@@ -1,0 +1,13 @@
+Mayson	James	mjames@husky.neu.edu	6024 Silver Creek Valley Rd	null	null	San Jose	CA	USA	95123
+Kubin	Davis	kud@hotmail.com	5700 Village Oaks Dr	Apt 3425	Vio apartment	San Francisco	CA	USA	94102
+Praveen	Sanjay	prav@gmail.com	201	Floor 39	N Central Ave	Phoenix	AZ	USA	85004
+Chapman	Cecilia	cchap@foxmail.com	711-2880 Nulla St.			Mankato	TX	USA	96522
+Kyla	Olsen	ky94ol@hotmail.com	8679 Sodales Av.	Ap #651		Tamuning	KL	IND	10855
+Megha	Jaghrad	invalid_email.Addr@hotmail.com			Invalid address	Tamuning	KL	IND	10855
+HaslongerThanPermittedNameLence	 Olsen	ky94ol@hotmail.com	8681 Sodales Av.	Ap #653		Tamuning	KL	IND	10855
+Kyla	HaslongerThanPermittedNameLence	ky94ol@hotmail.com	8682 Sodales Av.	Ap #654		Tamuning	KL	IND	10855
+Kyla	Olsen	ky94ol@hotmail.com	8683 Sodales Av.	Ap #655		Tamuning	KL	IND	10855
+Jack	Ma	gangof18@alibaba.com.cn	699 Wangshang Rd, 	Binjiang Qu,		 Hangzhou 	BJ	CHN	311121
+Jack	NoEmail		699 Wangshang Rd, 	Binjiang Qu,		 Hangzhou		BJ	CHN	31121
+Andy	Wang	andy@gmail.com	5700 Village Dr	Apt 3426	Vio Apartment	San Jose	CA	USA	95123
+Ted	Li	ted@hotmail.com	5800 Blossom Hill Road	Apt210	Lex	San Jose	CA	USA	95136
